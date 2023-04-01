@@ -13,6 +13,7 @@ The process of feature engineering can involve several techniques such as:
 </p>
 <ul>
   <li><strong>Imputation of missing values:</strong>  When data contains missing values, various imputation techniques can be used to fill in the missing values.</li>
+  <li><strong>Detecting outliers:</strong> Outliers negatively affect the distribution of data and should be avoided with various techniques.</li>
   <li><strong>Encoding categorical variables:</strong> Categorical variables need to be encoded into numerical values to be used in machine learning models.</li>
   <li><strong>Scaling and normalization:</strong> Features can be scaled or normalized to ensure that they have similar ranges and magnitudes. </li>
   <li><strong>Feature selection:</strong> Not all features may be relevant for a particular problem, and some features may even introduce noise into the model. Feature selection techniques can help identify the most important features for the model.</li>
