@@ -1,6 +1,3 @@
-# feature-engineering
-:hammer_and_pick: Feature Engineering
-
 <h1 align="center">
   Feature Engineering on Titanic Dataset
 </h1>
